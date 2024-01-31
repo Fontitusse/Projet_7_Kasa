@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Projet_7_Kasa/static/css/main.4ff1b470.css",
+    "main.js": "/Projet_7_Kasa/static/js/main.966a12e4.js",
+    "static/media/propos_cover.png": "/Projet_7_Kasa/static/media/propos_cover.9438035cca5a38fcb06a.png",
+    "static/media/home_cover.png": "/Projet_7_Kasa/static/media/home_cover.84132b0f93bbeaa2fe46.png",
+    "index.html": "/Projet_7_Kasa/index.html",
+    "main.4ff1b470.css.map": "/Projet_7_Kasa/static/css/main.4ff1b470.css.map",
+    "main.966a12e4.js.map": "/Projet_7_Kasa/static/js/main.966a12e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ff1b470.css",
+    "static/js/main.966a12e4.js"
+  ]
+}
