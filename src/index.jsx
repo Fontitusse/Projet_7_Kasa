@@ -3,7 +3,6 @@ import ReactDOM from "react-dom/client";
 import Home from "./pages/Home";
 import Accommodation from "./pages/Accommodation";
 import Propos from "./pages/Propos";
-import Error from "./pages/Error";
 import {
   createBrowserRouter,
   RouterProvider,
@@ -17,7 +16,7 @@ import "./index.css";
 
 const router = createBrowserRouter([
   { 
-    path: "/",
+    path: "*",
     element: <Home />,
   },
   {
@@ -27,10 +26,6 @@ const router = createBrowserRouter([
   {
 		path: "/propos",
 		element: <Propos />
-	},
-  {
-		path: "*",
-		element: <Error />,
 	}
 ]);
 //4 routes pour 4 pages : Accueil, Hébergements, A propos, Error
